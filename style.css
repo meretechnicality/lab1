@@ -1,0 +1,23 @@
+* {
+  font-family: monospace;
+  color: #4bec13;
+  background-color: rgb(0,0,0);
+}
+header {
+color: #ffffff;
+background-image: url("code.gif");
+background-color: transparent;
+text-align: center;
+border-style: double;
+border-width: thick;
+border-color: #4bec13;
+}
+
+a:hover, a:active {
+  color: #6caf12;
+}
+
+.headerlink {
+  border-style: dotted;
+  display: inline-block;
+}
